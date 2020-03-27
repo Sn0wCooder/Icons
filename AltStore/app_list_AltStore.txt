@@ -1,0 +1,31 @@
+	Jailbreak Tools:
+
+- unc0ver: https://unc0ver.dev
+
+	Cydia Apps:
+
+- iDeviceWalls: me (NFA/Discontinued)
+- Screenshot App: https://www.patreon.com/junesiphone (NFA/Discontinued)
+- ScreenshotX: https://www.patreon.com/junesiphone (NFA)
+
+	Extensify Exos (https://github.com/Sn0wCooder/Extensify-Exos)
+
+- Rocket & InstagramShowLikes for Instagram
+- Plex++
+- Sposify for Spotify
+- Cercube 5 for YouTube
+
+	Emulators
+
+- UTM: https://github.com/utmapp/UTM
+- ?
+
+	Multimedia:
+
+- AirFloat: https://github.com/trenskow/AirFloat (NFA/Discontinued)
+- Kodi? Altro?
+
+	Other Apps:
+
+- Bar Magnet: https://github.com/Qata/BarMagnet (NFA)
+- iTorrent: https://github.com/XITRIX/iTorrent
