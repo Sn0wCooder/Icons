@@ -232,24 +232,6 @@
       ]
     },
 		{
-      "name": "Plex++",
-      "bundleIdentifier": "com.plexapp.plex",
-      "developerName": "Hollr2099",
-			"subtitle": "Plex app for free",
-      "version": "6.9",
-      "versionDate": "2020-03-25T14:30:00-07:00",
-      "versionDescription": "Initial release",
-      "downloadURL": "https://github.com/Sn0wCooder/things/releases/download/first-release/PlexMobile_v6.9_Plex_Unlocker_v1.0.ipa",
-			"localizedDescription": "Plex v6.9, Plex Unlocker v1.0\n\nFree Plex app with in-app purchases unlocked.",
-      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/plex.png",
-      "tintColor": "de9710",
-      "size": 47667043,
-      "screenshotURLs": [
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/plex%2B%2B/1.PNG",
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/plex%2B%2B/2.PNG"
-      ]
-    },
-		{
       "name": "Sposify for Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "aesthyrica",
