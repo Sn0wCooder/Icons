@@ -98,27 +98,6 @@
       ]
     },
 		{
-      "name": "ScreenshotApp",
-      "bundleIdentifier": "com.junesiphone.screenshotapp",
-      "developerName": "JunesiPhone",
-      "subtitle": "Give your screenshot style!",
-      "version": "1.0",
-      "versionDate": "2020-03-25T14:30:00-07:00",
-      "versionDescription": "Initial release",
-      "downloadURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/ipas/ScreenshotApp2_v1.0.ipa",
-      "localizedDescription": "Give your screenshots style!\nScreenshot is an easy to use app that allows you to put your screenshots in an iPhone mockup. Great for showing off your setup to friends or making promotional images of your tweak, app, theme, or widget.\n\n• 3D touch icon for supported devices (allows quick navigation to your favorite mockup);\n• iPhone Scenes (a phone in a hand or on a desk, somewhat natural environment);\n• Dual iPhones (yes you can show your lockscreen and springboard in one mockup!);\n• Single iPhones (centered phone with option to add a background and glare);\n• Full HD iPhones (screenshot at it’s full size);\n• Twitter share button (share images without saving to camera roll);\n• Each mockup has the option to add glare on the phone and a background layer which can be blurred;\n• Any mockup besides the Full Resolution is sized 1080 x 1080 to be compatible with many social networks like Instagram, Facebook, Tumblr, and Twitter.",
-      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/screenshotapp.png",
-      "tintColor": "04d6c4",
-      "size": 47397196,
-      "screenshotURLs": [
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotapp/1.PNG",
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotapp/2.PNG",
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotapp/3.PNG",
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotapp/4.PNG",
-				"https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotapp/5.PNG"
-      ]
-    },
-		{
       "name": "ScreenshotX",
       "bundleIdentifier": "com.junesiphone.screenshotx",
       "developerName": "JunesiPhone",
